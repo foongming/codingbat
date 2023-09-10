@@ -7,5 +7,4 @@ def sum13(nums):
         nums[i] = 0
         if i != len(nums)-1:
           nums[i+1] = 0
-  return sum (nums)
-      
+  return sum(nums)
